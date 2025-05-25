@@ -11,3 +11,5 @@ Color of the fruit is Red in color
 Apart from python 
 you also need to install
 pygame and random.
+
+Start the game by using any of the arrow keys.
